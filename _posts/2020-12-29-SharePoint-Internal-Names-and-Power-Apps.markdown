@@ -1,5 +1,6 @@
 ---
 title: SharePoint Internal Names and Power Apps
+layout: single
 date: 2020-12-29 12:53:00 -0500
 categories: [Power Apps, SharePoint]
 tags: [power apps,sharepoint]     # TAG names should always be lowercase
